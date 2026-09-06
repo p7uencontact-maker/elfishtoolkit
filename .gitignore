@@ -1,0 +1,6 @@
+build/
+dist/
+__pycache__/
+*.spec
+fish_generator_config.json
+toolkit_config.json
